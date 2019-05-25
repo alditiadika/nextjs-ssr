@@ -1,0 +1,31 @@
+{
+  "name": "nextjs-ssr",
+  "version": "1.0.0",
+  "description": "My first next js",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alditiadika/nextjs-ssr.git"
+  },
+  "keywords": [],
+  "author": "Randika Alditia",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^8.1.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-redux": "^7.0.3",
+    "reactstrap": "^8.0.0",
+    "redux": "^4.0.1",
+    "redux-thunk": "^2.3.0"
+  },
+  "bugs": {
+    "url": "https://github.com/alditiadika/nextjs-ssr/issues"
+  },
+  "homepage": "https://github.com/alditiadika/nextjs-ssr#readme"
+}

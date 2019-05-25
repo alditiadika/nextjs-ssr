@@ -7,7 +7,7 @@
         "dev": "nodemon server.js",
         "build": "next build",
         "start": "NODE_ENV=production node server.js",
-        "restart-build": "rm -rf .next/ && next build && npm start"
+        "restart": "rm -rf .next/ && next build && npm start"
     },
     "repository": {
         "type": "git",
